@@ -49,3 +49,11 @@ Most likely I will be merging the PR to 2021 branch in less than a 24 hours. You
 ### *1. You can use Markdown syntax for formatting.*
 ### *2. Add any jpg or png or gif into assets directory with your github username if you want to showcase a pic/gif in README.md and copy the download url.*
 (Read the raw file code of this [README.md](https://raw.githubusercontent.com/HemantSachdeva/HacktoberFest/2021/README.md) to know how to add media and make your README look better.)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Feedback
+
+If you have any feedback, please reach out to me at [Hemant Sachdeva](https://github.com/HemantSachdeva)
