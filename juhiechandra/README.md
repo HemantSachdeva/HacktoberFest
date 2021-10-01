@@ -28,6 +28,3 @@
 
 :thought_balloon:“The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.”  
 **Bill Gates, Co-founder of Microsoft**
-
-:thought_balloon:“Any sufficiently advanced technology is indistinguishable from magic.”  
-**Arthur C. Clarke, Inventor**
