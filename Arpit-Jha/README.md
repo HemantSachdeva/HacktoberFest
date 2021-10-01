@@ -6,8 +6,8 @@
 
 ## 2. VSCode Meme
 
-![VS](https://github.com/Arpit-Jha/HactoberFest/blob/2021/assets/VSCodeMeme.jpg)
+![VS](https://github.com/Arpit-Jha/HacktoberFest/blob/2021/assets/VSCodeMeme.jpg)
 
 ## 3. Webinar Meme
 
-![WEBINAR](https://github.com/Arpit-Jha/HactoberFest/blob/2021/assets/WebinarMeme.jpg)
+![WEBINAR](https://github.com/Arpit-Jha/HacktoberFest/blob/2021/assets/WebinarMeme.jpg)
