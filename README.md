@@ -57,3 +57,8 @@ Most likely I will be merging the PR to 2021 branch in less than a 24 hours. You
 ## Feedback
 
 If you have any feedback, please reach out to me at [Hemant Sachdeva](https://github.com/HemantSachdeva)
+
+## :handshake: Our Contributors 
+<a href="https://github.com/HemantSachdeva/HacktoberFest/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HemantSachdeva/HacktoberFest" />
+</a>
