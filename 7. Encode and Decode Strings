@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    string res;
+    vector<string> s{"Hello", "Emar", "Poorvi"};
+    for (int i = 0; i < s.size(); i++)
+    {
+        res += to_string(s[i].length()) + "#" + s[i];
+    }
+
+    vector<string> ans{};
+    int i = 0;
+    while (i < res.length())
+    {
+        int j = i;
+        while (res.substr(j, j + 1) != "#")
+            j++;
+        int lenStr = res.substr(i, j).length();
+        ans.push_back(res.substr(j + 1, j + 1 + lenStr));
+        i = j + 1 + lenStr;
+    }
+    cout << ans[0];
+}
