@@ -1,0 +1,1 @@
+How do celebrities stay cool? They have many fans
