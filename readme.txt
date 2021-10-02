@@ -1,2 +1,1 @@
-Question: what kind of hair do oceans have?
-Ans: Wavy😂
+How do celebrities stay cool? They have many fans.😂
