@@ -6,7 +6,7 @@ Word used by programmers when they do not want to explain what they did.
 #JOKE
 ```
 Q- 0 is false 1 is true, right ?
->A- 1
+A- 1
 ```
 #JOKE
 ```
