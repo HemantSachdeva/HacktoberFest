@@ -1,3 +1,10 @@
-# Programmer Meme
+# PROGRAMMER JOKES
 
-(https://programming-memes.netlify.app/static/media/meme2.177ab49d.jpg)
+### An optimist says:
+ - "The glass is half-full"
+
+### A pessimist says:
+ - "The glass is half-empty"
+
+### A programmer says:
+ - "The glass is TWICE as large as necessary"
