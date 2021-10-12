@@ -71,7 +71,7 @@ Collaborators can share and pull in changes that others have made as they need. 
 
 If you want to collaborate with others, it usually makes sense to set up a repository on a server to act as a kind of hub for everyone to interact with. Git can work as a standalone program as a server and as a client. This means that you can use Git on a single machine without even having a network connection. Or you can use it as a server on a machine where you want to host your repository. And then you can use Git as a client to access the repository from another machine or even the same one.
 
-![Distributed Version System](https://drive.google.com/uc?export=view&id=1XbrDGAkaYHuG05-gFwauH3URJM7m8muH)
+![Distributed Version System](https://camo.githubusercontent.com/0594c488b562141a8ce8eb1c15916d1377cd887b8fd8e069ca2455b8722f3371/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d315862724447416b615948754730352d6746776175483355524a4d376d386d7548)
 
 ## What is Github?
 
