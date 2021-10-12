@@ -1,8 +1,13 @@
 # JOKE
+
+
 ```
 Algorithm(noun.)
 Word used by programmers when they do not want to explain what they did.
 ```
+
+
+
 
 # JOKE
 ```
@@ -22,6 +27,7 @@ they will create *their own problems*!
 ```
 
 # LIFE MOTTO
+
 ```
  if (sad() == true) {
       sad.stop.();
