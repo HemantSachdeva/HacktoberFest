@@ -17,7 +17,6 @@ git clone git@github.com:HemantSachdeva/HacktoberFest.git || git clone https://g
 3. Now open the cloned repository folder in your favourite code editor, make a new directory/folder as same as your GitHub username. And create a new file named README.md inside that directory.
 
 > HemantSachdeva/README.md
-
 (my case)
 
 4. Now write any kind of Joke, Meme, Quote, whatever you want in that file. <br>
@@ -29,7 +28,6 @@ git add github_username/README.md
 ```
 ```
 git commit -m "Add README.md or Any Interesting message you like"
-
 ```
 ```
 git push
