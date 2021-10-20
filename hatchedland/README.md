@@ -1,0 +1,1 @@
+Obama's last name is white, cuz he lived in whitehouse.
