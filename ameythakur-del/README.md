@@ -1,0 +1,1 @@
+Hame unase hai wafa ki ummeed jo nahi janate wafa kya hai
