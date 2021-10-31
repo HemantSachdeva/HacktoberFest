@@ -1,0 +1,2 @@
+-"You lose your grip,and then you slip into the masterpiece."
+-"He who thinks he can and He who who thinks he can't are both usually right."
