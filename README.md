@@ -1,14 +1,14 @@
-![BANNER](https://raw.githubusercontent.com/HemantSachdeva/HacktoberFest/2021/assets/HacktoberFest.jpg)
+![BANNER](https://raw.githubusercontent.com/HemantSachdeva/HacktoberFest/2022/assets/HacktoberFest.png)
 
 # How to make a valid pull request and participate in HacktoberFest?
 
 1. Fork this repository to your profile from top right of this page.
 
-![FORK](https://raw.githubusercontent.com/HemantSachdeva/HacktoberFest/2021/assets/fork.png)
+![FORK](https://raw.githubusercontent.com/HemantSachdeva/HacktoberFest/2022/assets/fork.png)
 
 2. Clone the repository to your local machine.
 
-![CLONE](https://raw.githubusercontent.com/HemantSachdeva/HacktoberFest/2021/assets/clone.png)
+![CLONE](https://raw.githubusercontent.com/HemantSachdeva/HacktoberFest/2022/assets/clone.png)
 
 ```
 git clone git@github.com:HemantSachdeva/HacktoberFest.git || git clone https://github.com/HemantSachdeva/HacktoberFest.git
@@ -39,14 +39,14 @@ git push
 2. You will see one 'Contribute' button. Click on it.
 
 3. You will see a pull request form. Fill in the form and click on 'Create pull request' button.
-(Make sure the branch you are trying to merge is the same as your forked repository branch. say 2021 for now)
+(Make sure the branch you are trying to merge is the same as your forked repository branch. say 2022 for now)
 
-Most likely I will be merging the PR to 2021 branch in less than a 24 hours. You can contact me if you still have any doubt.
+Most likely I will be merging the PR to 2022 branch in less than a 24 hours. You can contact me if you still have any doubt.
 
 ### Note:
 ### *1. You can use Markdown syntax for formatting.*
 ### *2. Add any jpg or png or gif into assets directory with your github username if you want to showcase a pic/gif in README.md and copy the download url.*
-(Read the raw file code of this [README.md](https://raw.githubusercontent.com/HemantSachdeva/HacktoberFest/2021/README.md) to know how to add media and make your README look better.)
+(Read the raw file code of this [README.md](https://raw.githubusercontent.com/HemantSachdeva/HacktoberFest/2022/README.md) to know how to add media and make your README look better.)
 
 ## License
 
