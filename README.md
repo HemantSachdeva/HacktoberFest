@@ -23,13 +23,9 @@ git clone git@github.com:HemantSachdeva/HacktoberFest.git || git clone https://g
 
 5. Now commit your changes and push to your GitHub account.
 
-```
+```BASH
 git add github_username/README.md
-```
-```
 git commit -m "Add README.md or Any Interesting message you like"
-```
-```
 git push
 ```
 ## Time to make a pull request
