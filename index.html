@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let repolink = "https://api.github.com/repos/realhunter7869/HacktoberFest/contents/jokes";
+        let data;
+        async function getData() {
+            const response = await fetch(repolink);
+            const data = await response.json();
+            console.log(data);
+            randnum = Math.floor(Math.random()*data.length)
+            name = data[randnum]["name"]
+            url = data[randnum]["url"]
+            console.log(url);
+            const response2 = await fetch(url);
+            const data2 = await response2.json();
+            console.log(data2);
+            randnum2 = Math.floor(Math.random()*data2.length)
+            fname = data2[randnum2]["name"]
+            url = data2[randnum2]["url"]
+            contentlink = "https://raw.githubusercontent.com/realhunter7869/HacktoberFest/2021/jokes/"+name+'/'+fname
+            const response3 = await fetch(contentlink);
+            const data3 = await response3.text();
+            console.log(data3);
+        }
+        getData();
+    </script>
+</head>
+<body>
+    <h1>JavaScript Fetch API</h1>
+    <h2>The fetch() Method</h2>
+    <p id="demo">Fetch a file to change this text.</p>
+</body>
+</html>
