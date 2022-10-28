@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="engineer-jokes-3_orig.png" title="meme1">
+  <img src="img/engineer-jokes-3_orig.png" title="meme1">
   <br><hr>
-  <img src="engineering-memes-chat.png" title="meme2">
+  <img src="img/engineering-memes-chat.png" title="meme2">
   <br><hr>
-  <img src="engineering-memes-squid-games_orig.png" title="meme3">
+  <img src="img/engineering-memes-squid-games_orig.png" title="meme3">
 </p>
